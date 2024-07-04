@@ -1,7 +1,8 @@
 # Hello world! I'm Paola! 👋
 ## English Philologist, Translator, and Full-Stack Developer
 Welcome to my GitHub profile! I am an English philologist and  English / French to Spanish translator, so my background is purely humanistic. However, I have decided to unify my humanistic studies with the field of software development, and I am doing my job to make magic happen. My curiosity and love for languages have led me to explore programming languages, and I am now thrilled to combine my linguistic skills with my new technical competencies. I am currently a junior python developer, I have developed projects mostly in Django and React, and I am heading towards the wonderful world of Natural Language Processing, Machine Learning and AI, although I have just taken my first steps in this universe.
-"Specialization triggers weakness, diverse perspectives provide strength and flexibility".
+
+As for the question 'what is someone like you doing in a place like this?', I'll answer: 'Overspecialization leads to weakness, while diverse perspectives foster strength and flexibility.' Incorporating individuals with different backgrounds is always a wise choice because they bring unique insights and innovative solutions that can be combined effectively.
 
 Here you can see my trajectory and the goals I'm accomplishing with my learning. Thanks for stopping by, and feel free to contact me for any project where you think I can bring a different perspective. 
 
